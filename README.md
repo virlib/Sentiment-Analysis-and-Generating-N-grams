@@ -1,2 +1,5 @@
 # Sentiment-Analysis-and-Generating-N-grams
-Finding out why trigrams are best for analyzing Sentiments and learning how to generate N grams
+
+<li> Created a function to generate N grams </li>
+<li> Predicted Sentiments using test-train method and MultinomialNB model </li>
+
